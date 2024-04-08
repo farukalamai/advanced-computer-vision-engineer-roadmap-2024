@@ -1,4 +1,6 @@
-# advanced-computer-vision-engineer-roadmap-2024
+# Advanced Computer Vision Engineer Roadmap 2024
+--------------
+A Computer Vision engineer operates at the intersection of machine learning, mimicking human-like vision. Their role involves crafting and automating computer vision models to streamline our daily tasks. They're tasked with creating and validating computer vision solutions for practical challenges, collaborating closely with both the engineering team and clients to pioneer innovative products and features, integrating real-time feedback into their work. 
 
 ![1685620024589](https://github.com/farukalamai/advanced-computer-vision-engineer-roadmap-2024/assets/92469073/0644c5af-0057-4804-9288-ed54a93cdfd5)
 
