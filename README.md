@@ -1,9 +1,10 @@
 # Advanced Computer Vision Engineer Roadmap 2024
 
-A Computer Vision engineer operates at the intersection of machine learning, mimicking human-like vision. A Full Stack Computer Vision Engineer Roadmap typically involves several key steps and areas of focus. Here's an outline of what it might include:
+A Computer Vision engineer operates at the intersection of machine learning, mimicking human-like vision. A Full Stack Computer Vision Engineer Roadmap typically involves several key steps and areas of focus. 
 
 ![1685620024589](https://github.com/farukalamai/advanced-computer-vision-engineer-roadmap-2024/assets/92469073/0644c5af-0057-4804-9288-ed54a93cdfd5)
 
+Below is a comprehensive roadmap that outlines the key steps and topics you should cover on your journey to becoming a Full Stack Computer Vision. Keep in mind that this is a high-level roadmap, and you can customize it based on your interests and goals.
 
 # 1. Python Programming
 Python is widely considered the best programming language for machine learning. It has gained immense popularity in the field of data science and machine learning.
