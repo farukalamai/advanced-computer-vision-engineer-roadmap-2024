@@ -4,10 +4,10 @@ A Computer Vision engineer operates at the intersection of machine learning, mim
 
 ![1685620024589](https://github.com/farukalamai/advanced-computer-vision-engineer-roadmap-2024/assets/92469073/0644c5af-0057-4804-9288-ed54a93cdfd5)
 
-Below is a comprehensive roadmap that outlines the key steps and topics you should cover on your journey to becoming a Full Stack Computer Vision. Keep in mind that this is a high-level roadmap, and you can customize it based on your interests and goals.
+Below is a comprehensive roadmap that outlines the key steps and topics you should cover on your journey to becoming a Full Stack Computer Vision Engineer. Keep in mind that this is a high-level roadmap, and you can customize it based on your interests and goals.
 
 # 1. Python Programming
-Python is widely considered the best programming language for machine learning. It has gained immense popularity in the field of data science and machine learning.
+Python is widely considered the best programming language for machine learning. It has gained immense popularity in the fields of data science and machine learning, deep learning, and computer vision.
 
  - Python basics, Variables, Operators, Conditional Statements
  - List and Strings
@@ -19,9 +19,9 @@ Python is widely considered the best programming language for machine learning. 
  - Object-Oriented Programming
 
 # 2. OpenCV with Python
-Python is widely considered the best programming language for machine learning. It has gained immense popularity in the field of data science and machine learning.
+OpenCV is a powerful open-source library designed for computer vision and machine learning tasks. It is widely used in various fields due to its versatility and efficiency.
 
- - What are images?
+ - What are images/Videos?
  - Input / Output
  - Basic operations
  - Colorspaces
@@ -44,9 +44,6 @@ OpenCV
 
 OpenCV is an open-source library for image processing and computer vision tasks.
 
-MATLAB
-
-MATLAB is a programming language that provides an environment for image manipulation and large-scale numerical analysis and plots. It also provides a dedicated computer vision support called Computer Vision ToolBox for implementing and testing CV solutions. 
 
 Keras
 
@@ -56,9 +53,6 @@ CUDA
 
 CUDA is an API developed by Nvidia for parallel computing and graphical processing that uses GPU to boost performance.
 
-DeepFace
-
-DeepFace is a deep learning platform system created by Facebook in 2014. It excels at identifying faces in images. 
 
 PyTorch
 
@@ -157,21 +151,19 @@ Once you learn all the required Computer Vision skills, start working on Compute
 
 I am going to discuss some beginner-level project ideas for Computer Vision. These projects will help you to sharpen your computer vision skills and boost your resume. I would suggest you pick a project from this list and start working on that project.
 
-People counting tool
-Colors detection
-Object tracking in a video
-Pedestrian detection
-Hand gesture recognition
-Human emotion recognition
-Road lane detection
-Business card scanner
-License plate recognition
-Handwritten digit recognition
-Iris Flowers Classification 
-Family photo face detection
-LEGO Brick Finder
-PPE Detection
-Face mask detection
+
+- Semantic Segmentation in Real-Time
+- Large Dataset Image Classification
+- Football Analytics with Deep Learning and Computer Vision
+- People counting tool
+- Object tracking in a video
+- Business card scanner
+- PPE Detection
+- Machine Translation Human Pose and Intention Classification
+
+"Want to know more about computer vision projects? Check out my top-100 repository." https://github.com/farukalamai/top-100-computer-vision-projects-idea-for-2024
+
+<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 
