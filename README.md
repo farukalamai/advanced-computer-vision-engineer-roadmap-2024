@@ -139,6 +139,28 @@ Image Processing
 One needs to have a ground understanding of simple image processing techniques like histogram equalisation, median filtering, RGB manipulation, image denoising and image restoration. Image regeneration or restoration is a prevalent technique of taking a degraded noisy image and generating a clean image out of it. The input image can be noisy, blurred, pixelated or tattered with old age. Image restoration uses the concept of Prior to fill in the gaps in the image and tries to rebuild the image in steps. In each iteration the image is refined, finally outputting the restored image. 
 
 # Software Skills
+To effectively integrate computer vision into web applications, here are the software skills you should focus on:
+
+### a. **Web Development Basics**
+   - **HTML/CSS/JavaScript**: These are fundamental for building the frontend of web applications. Understanding how to create and manipulate web pages is crucial.
+   - **Frontend Frameworks**: Learn a frontend framework like **React.js** or **Vue.js** to build dynamic and interactive user interfaces.
+
+### b. **Backend Development**
+   - **Flask/Django**: Since you already know Python, learning Flask or Django will help you create robust backend servers that can handle requests and integrate with computer vision models.
+   - **RESTful APIs**: Understand how to create and consume RESTful APIs to enable communication between the frontend and backend. This is essential for sending image data to the server and receiving processed results.
+   - **WebSockets**: Learn WebSockets for real-time data transmission if your application requires live video streaming or real-time updates.
+
+### c. **Database Management**
+   - **SQL/NoSQL Databases**: Learn to use databases like PostgreSQL (SQL) or MongoDB (NoSQL) for storing and retrieving data, such as processed images, metadata, or user information.
+
+### d. **Deployment and Cloud Services**
+   - **Docker**: Learn Docker to containerize your computer vision applications, making them portable and easier to deploy across different environments.
+   - **AWS/GCP/Azure**: Familiarize yourself with cloud platforms like Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure. Learn to deploy your applications on these platforms and use their services, such as S3 for storage or EC2 for running your models.
+     
+### e. **Web Frameworks for Computer Vision**
+   - **TensorFlow.js**: Learn TensorFlow.js to run machine learning models directly in the browser using JavaScript, enabling client-side computer vision tasks.
+   - **OpenCV.js**: Understand how to use OpenCV.js, a JavaScript binding for OpenCV, to perform image processing directly in the browser.
+
 
 
 # Work On Real-World Hands-On Computer Vision Projects
@@ -163,7 +185,7 @@ I am going to discuss some beginner-level project ideas for Computer Vision. The
 
 "Want to know more about computer vision projects? Check out my top-100 repository." https://github.com/farukalamai/top-100-computer-vision-projects-idea-for-2024
 
-<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 
 
